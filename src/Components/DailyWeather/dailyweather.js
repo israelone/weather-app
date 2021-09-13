@@ -14,8 +14,7 @@ const Temperature = styled.p`
 `;
 
 const WeatherImage = styled.img`
-  width: 250px;
-  height: 250px;
+  width: 88%;
   display: block;
   margin: 0 auto;
 `;
